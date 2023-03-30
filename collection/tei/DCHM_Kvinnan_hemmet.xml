@@ -40,11 +40,360 @@
       <surface xml:id="KH02">
          <figure>
             <label>Second page</label>
-            <figDesc>Fru Majas lycka</figDesc>
+            <figDesc>Extract from Fru Majas lycka</figDesc>
             <graphic url="../docs/assets/img/documents/20230120112718_002.jpg"/>
          </figure>
       </surface>
-      
+      <surface xml:id="KH03">
+         <figure>
+            <label>Third page</label>
+            <figDesc>Contact information and different ads </figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_003.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH04">
+         <figure>
+            <label>Fourth page</label>
+            <figDesc>Summery of the October issue and different ads </figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_004.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH05">
+         <figure>
+            <label>Fifth page</label>
+            <figDesc>Article: FÖrstå vi våra barn</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_005.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH06">
+         <figure>
+            <label>Sixth page</label>
+            <figDesc>Article: Ett besök i Grönland </figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_006.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH07">
+         <figure>
+            <label>Seventh page</label>
+            <figDesc>Article continued: Ett besök i Grönland </figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_007.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH08">
+         <figure>
+            <label>Eighth page</label>
+            <figDesc>Article: Grå granit </figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_008.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH09">
+         <figure>
+            <label>Ninth page</label>
+            <figDesc>Article continued:Grå granit</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_009.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH10">
+         <figure>
+            <label>Tenth page</label>
+            <figDesc>Article continued:Grå granit</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_010.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH11">
+         <figure>
+            <label>Eleventh page</label>
+            <figDesc>Article continued:Grå granit</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_011.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH12">
+         <figure>
+            <label>Twelfth page</label>
+            <figDesc>Short story: Hans drömmars ideal</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_012.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH13">
+         <figure>
+            <label>Thirteenth page</label>
+            <figDesc>Short story:I sträfvan och sorg</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_013.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH14">
+         <figure>
+            <label>Fourteenth page</label>
+            <figDesc>Short story: Addy</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_014.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH15">
+         <figure>
+            <label>Fifteenth page</label>
+            <figDesc>Short story continued: Addy</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_015.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH16">
+         <figure>
+            <label>Sixteenth page</label>
+            <figDesc>Short story: Mors stuga</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_016.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH17">
+         <figure>
+            <label>Seventeen page</label>
+            <figDesc>Short story: Mors stuga</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_016.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH18">
+         <figure>
+            <label>Eighteenth page</label>
+            <figDesc>Short story: Mors stuga</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_018.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH19">
+         <figure>
+            <label>Nineteenth page</label>
+            <figDesc>Short story: Mors stuga</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_019.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH20">
+         <figure>
+            <label>Twentieth page</label>
+            <figDesc>Short story: Mors stuga</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_020.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH21">
+         <figure>
+            <label>Twenty-first page</label>
+            <figDesc>Short story: Mors stuga</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_021.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH22">
+         <figure>
+            <label>Twenty-second page</label>
+            <figDesc>Short story: Mors stuga</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_022.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH23">
+         <figure>
+            <label>Twenty-third page</label>
+            <figDesc>Short story: Lögnen</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_023.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH24">
+         <figure>
+            <label>Twenty-fourth page</label>
+            <figDesc>Short story continued: Lögnen</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_024.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH25">
+         <figure>
+            <label>Twenty-fifth page</label>
+            <figDesc>Short story continued: Lögnen</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_025.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH26">
+         <figure>
+            <label>Twenty-sixthpage</label>
+            <figDesc>Short story continued: Lögnen</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_026.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH27">
+         <figure>
+            <label>Twenty-seventh page</label>
+            <figDesc>Mönstertidning</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_027.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH28">
+         <figure>
+            <label>Twenty-eighth page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_028.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH29">
+         <figure>
+            <label>Twenty-ninth page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_029.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH30">
+         <figure>
+            <label>Thirtieth page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_030.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH31">
+         <figure>
+            <label>Thirty-first page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_031.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH32">
+         <figure>
+            <label>Thirty-second page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_032.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH33">
+         <figure>
+            <label>Thirty-third page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_033.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH34">
+         <figure>
+            <label>Thirty-fourth page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_034.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH35">
+         <figure>
+            <label>Thirty-fifth page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_035.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH36">
+         <figure>
+            <label>Thirty-sixth page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_036.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH37">
+         <figure>
+            <label>Thirty-seventh page</label>
+            <figDesc>Mönstertidning continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_037.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH38">
+         <figure>
+            <label>thirtieth-eigth page</label>
+            <figDesc>Articles and ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_038.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH39">
+         <figure>
+            <label>Thirty-ninth page</label>
+            <figDesc>Article continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_039.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH40">
+         <figure>
+            <label>Fortieth page</label>
+            <figDesc>Recepies:Köket </figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_040.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH41">
+         <figure>
+            <label>Forty first page</label>
+            <figDesc>Recepies continued:Köket</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_041.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH42">
+         <figure>
+            <label>Forty second page</label>
+            <figDesc>Articles and ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_042.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH43">
+         <figure>
+            <label>Forty third page</label>
+            <figDesc>Articles and ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_043.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH44">
+         <figure>
+            <label>Forty fourth page</label>
+            <figDesc>Articles continued</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_044.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH45">
+         <figure>
+            <label>Forty fifth page</label>
+            <figDesc>Book excerpt</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_044.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH46">
+         <figure>
+            <label>Forty sixth page</label>
+            <figDesc>Articles and ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_046.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH47">
+         <figure>
+            <label>Forty seventh page</label>
+            <figDesc>Articles and ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_047.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH48">
+         <figure>
+            <label>Forty eigth page</label>
+            <figDesc>Book ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_048.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH49">
+         <figure>
+            <label>Forty ninth page</label>
+            <figDesc>Book ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_049.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH50">
+         <figure>
+            <label>Fiftieth page</label>
+            <figDesc>Book ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_050.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH51">
+         <figure>
+            <label>Fifty first page</label>
+            <figDesc>Book ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_051.jpg"/>
+         </figure>
+      </surface>
+      <surface xml:id="KH52">
+         <figure>
+            <label>Fifty two page</label>
+            <figDesc>Ads</figDesc>
+            <graphic url="../docs/assets/img/documents/20230120112718_052.jpg"/>
+         </figure>
+      </surface>
    </facsimile>
    <text>
 
