@@ -34,14 +34,14 @@
          <figure>
             <label>Front</label>
             <figDesc> The front page of Kvinnan och Hemmet September 1930 </figDesc>
-            <graphic url="assets/img/documents/20230120112718_001.jpg"/>
+            <graphic url="../docs/assets/img/documents/20230120112718_001.jpg"/>
          </figure>
       </surface>
       <surface xml:id="KH02">
          <figure>
             <label>Second page</label>
             <figDesc>Fru Majas lycka</figDesc>
-            <graphic url="assets/img/documents/20230120112718_002.jpg"/>
+            <graphic url="../docs/assets/img/documents/20230120112718_002.jpg"/>
          </figure>
       </surface>
       
