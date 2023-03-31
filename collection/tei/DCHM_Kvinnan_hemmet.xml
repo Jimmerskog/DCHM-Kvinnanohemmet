@@ -418,7 +418,7 @@
          <pb n="1" facs="#KH01" />
          <pb n="2" facs="#KH02"/>
          <div1 type="article" xml:id="a2.1" next="a2.2">
-            <head>FRU MAJAS LYCKA</head>
+            <head type="1">FRU MAJAS LYCKA</head>
             <byline>Berättelse af H. Courths-Mahler.</byline>
             <p>DETTA är en bok skrifven af den välkända författar-innan H. Courths-Mahler. Hon har
                en utmärkt förmåga att kunna skildra sina berättelser, hon vunnit stor sympati genom
@@ -479,9 +479,9 @@
                Stat..............................................................</ab>
          </div1>
 
-         <pb n="3"/>
+         <pb n="3" facs="#KH03"/>
          <div1 type="ad">
-            <head>Kvinnan och Hemmet med bilagorna ''Mönstertidning'' och ''Vårt Bibliotek."</head>
+            <head type="1">Kvinnan och Hemmet med bilagorna ''Mönstertidning'' och ''Vårt Bibliotek."</head>
 
 
             <ab> Kvinnan och Hemmet Woman and Home Established 1888. </ab>
@@ -607,11 +607,11 @@
                detta . nummer. Förnya i dag! </ab>
          </div1>
 
-         <pb n="4"/>
+         <pb n="4" facs="#KH04"/>
 
          <div1 type="article" xml:id="a4.1" next="a4.2">
-            <head>En vänlig Hälsning till alla.</head>
-            <head>En öfversikt öfver vårt oktobernummer.</head>
+            <head type="2">En vänlig Hälsning till alla.</head>
+            <head type="4">En öfversikt öfver vårt oktobernummer.</head>
             <p>Östergaard gifver denna gång ett fängslande utdrag ur en amerikansk lärarinnas
                framställning af tankar och ideer angående skolan, och han betonar den punkten, att
                mödrar borde draga fördel af dessa nya tankar och tillämpa dem i sitt dagliga lif med
@@ -723,10 +723,10 @@
             <ab>Insänd alla beställningar till Mrs. IDA HANSEN, Kvinnan och Hemmet, Cedar Rapids,
                Iowa</ab>
          </div1>
-         <pb n="5"/>
+         <pb n="5" facs="#KH05"/>
          <div1 type="article" xml:id="a5.1" next="a5.2">
-            <head>Kvinnan och Hemmet</head>
-            <head>Förstå vi våra barn?</head>
+            <head type="1">Kvinnan och Hemmet</head>
+            <head type="3">Förstå vi våra barn?</head>
             <byline>Af Kristian Östergaard</byline>
             <p>Är ofvanstående icke en egendomlig fråga? Man brukar ju att utgå ifrån, att
                det är nog, när barnen förstå oss. Och ändå är denna fråga just nu dis- . kuterad af
@@ -812,10 +812,10 @@
                inbjudande och hälsosam.</p>
 
          </div1>
-         <pb n="6"/>
+         <pb n="6" facs="#KH06"/>
 
          <div1 type="article" xml:id="a6.1" next="a6.2">
-            <head>Ett besök i Grönland</head>
+            <head type="3">Ett besök i Grönland</head>
             <byline>Af Sophie Petersen</byline>
                <p>En lukt af frisk tjära och härsken fiskolja möta -oss . på grönlandsbryggan i
                Köpenhamn, där handelsskeppen ligga förtöjda i det gyttjiga, gröna vattnet. Emedan
@@ -882,7 +882,7 @@
                och infödd lärare,</p>
 
          </div1>
-         <pb n="7"/>
+         <pb n="7" facs="#KH07"/>
          <div1 type="article" xml:id="a7.1" prev="a6.2" next="a46.1">
                <p>Högskolan har två kurser, en praktisk, som gifver undervisning i bokhålleri och
                handelskunskap. Studenter, som få examen härifrån, kunna få anställning vid det
@@ -928,7 +928,7 @@
                med sin hustru, Gertrud Rask, kom till Grönland år 1721.</p>
          </figure>
          <div1 type="article" xml:id="a7.2" next="a8.1">
-            <head>Grå Granit</head>
+            <head type="3">Grå Granit</head>
             <byline>Af Antonette Tovsen.</byline>
             <p>H varför J. W. Fisher, huufvudmannen för Fisher &amp; Co., grosshandel, hade fått
                titeln "Grå granit", visste ingen. Kanske någon galgfågel gifvit honom namnet på
@@ -964,7 +964,7 @@
                middag och gå på teatern med mig? sade han i samma skämtsamma ton.</q> <q>- Jag är verkligen
                trött, Mr. Whynn, jag skall tänka</q></p>
          </div1>
-         <pb n="8"/>
+         <pb n="8" facs="#KH08"/>
          <div1 type="article" xml:id="a8.1" prev="a7.2" next="a8.2">
             <p><q>öfver det; ni kan ju ringa upp mig på hotellet vid sextiden. - Ni är icke er själf
                denna gång, Miss Bjelke, det märkte jag genast jag träffade er igår. Jag tror, att ni
@@ -1056,7 +1056,7 @@
                stationen, då hon reste. Tanken på Phil och elen pinsamma scenen mellan dem, hade
                lämnat en tagg, som gnagde hela tiden. Hon hade</p>
          </div1>
-         <pb n="9"/>
+         <pb n="9" facs="#KH09"/>
          <div1 type="article" xml:id="a9.1" prev="a8.2" next="a9.2">
             <p>lilifvit bittrare och hittrar« till sinnet; ju mera 11011 tänkte på hans
                småaktighet, hans själfgodhet. Det var andra saker också, som talades om, men .som
@@ -1153,7 +1153,7 @@
                <p><q>Det var den gamla historien. Det stora hafvet, som slukar 'så mången
                familjeförsörjare, hade också tagit</q></p>
          </div1>
-         <pb n="10"/>
+         <pb n="10" facs="#KH10"/>
          <div1 type="article" xml:id="a10.1" prev="a9.2" next="a10.2">
             <p><q>hennes far. Hon, som den äldsta, måste hjälpa till Amerika var löftenas land.
                Det var' lättare att "tjäna pengar här och det räckte längre i Sverige.</q></p> <p><q>I flera
@@ -1248,7 +1248,7 @@
                jag är ett vackert minne rikare. · <q>- Men jag har ju alls icke sagt att</q>hon
                afbröt</p>
          </div1>
-         <pb n="11"/>
+         <pb n="11" facs="#KH11"/>
          <div1 type="article" xml:id="a11.1" prev="a10.2" next="a11.2">
             <p>sig plötsligen, röd och förvrrrad;' så fortsatte hon mo digare. <q>Jag - kan icke
                svara -er nu -!</q> Hans "ögon' strålade och plötsligen drog han. henne till sig.Hon'
@@ -1411,10 +1411,10 @@
                (Forts, på sidan 44,,)</p>
          </div1>
 
-         <pb n="12"/>
+         <pb n="12" facs="#KH12"/>
          <div1 type="article" xml:id="a12.1" next="a12.2">
 
-            <head>Hans drömmars ideal.</head>
+            <head type="3">Hans drömmars ideal.</head>
             <byline>Af Britta.</byline>
             <ab> D en u~ge,. vänlige doktor Borg hade för ett år tillbaka tagit sm examen med högsta
                betyg. Han fick anställning vid ett stort gods som läkare för den grefliga tamiljen
@@ -1510,9 +1510,9 @@
                ömt. Utmed stranden vandrade två. lyckliga människor, omväfda af ljusa
                framtidsdrömmar.</ab>
          </div1>
-         <pb n="13"/>
+         <pb n="13" facs="#KH13"/>
          <div1 type="article" xml:id="a13.1" next="a13.2">
-            <head> I sträfvan och sorg.</head>
+            <head type="3"> I sträfvan och sorg.</head>
             <byline>Af Johan Selnes.</byline>
             <ab>Det ~r ute, i hafsskären en vacker höstdag. Inga hränrungar eller skvalp mot holmar
                och skär, ingen låt af böljeslag. Ejderfåglar ligga vid stranden och plaska.
@@ -1610,10 +1610,10 @@
                störa dem, som sofvo. PerKaneles lättade på stugudörren, för att förvissa sig om,
                (Forte. på sidan 44.)</ab>
          </div1>
-         <pb n="14"/>
+         <pb n="14" facs="#KH14"/>
 
          <div1 type="article" xml:id="a14.1" next="a14.2">
-            <head>"Addy".</head>
+            <head type="3">"Addy".</head>
             <byline>Af G.M.S.</byline>
 
             <ab>James Jenny gick ut fråp rättssalon med böjt hufvud och såg mycket tänkande ut; -Han
@@ -1713,7 +1713,7 @@
                alldeles tom, men inne i hvardagsrummet hade ållaredan samlats några sminkade,
                eleganta da-</ab>
          </div1>
-         <pb n="15"/>
+         <pb n="15" facs="#KH15"/>
          <div1 type="article" xml:id="a15.1" prev="a14.2" next="a15.2">
             <ab>mer och släthåriga, stela Herrar. Doktor Steen vär "ock.
                
@@ -1936,12 +1936,12 @@
                
                var. så. likt James, hela hans figur och längd men -</ab>
          </div1>
-         <pb n="16"/>
+         <pb n="16" facs="#KH16"/>
          <div1 type="article" xml:id="a16.1"  next="a16.2"> 
          
-         <head>Vårt Bibliotek. - Supplement to "Kvinnan och Hemmet”.</head>
-         
-         <head>Mors Stuga.</head>
+            <head type="1">Vårt Bibliotek.</head>
+            <head type="4">Supplement to "Kvinnan och Hemmet”</head>
+            <head type="2">Mors Stuga.</head>
          
          <byline>Berättelse af Betty.</byline>
          
@@ -1962,7 +1962,7 @@
          blommor utom, och inuti rummen fina moderna möbler
          och därtill -en veranda att sitta och läsa läxorna på!
          
-         Men hvad hade han? |
+         Men hvad hade han? 
          
          Han, Tor Skogsiö, som ändå hade det bästa läs-
          hufvudet af alla pojkar i sockenskolan och som så ofta
@@ -2146,7 +2146,7 @@
             hjälpa sig själf öfver golfvet utan de här kryckorna.
             Det tror inte patron — så mycket ser jag.</ab>
             </div1>
-         <pb n="17"/>
+         <pb n="17" facs="#KH17"/>
          <div1 type="article" xml:id="a17.1" prev="a16.2" next="a17.2"> 
             <ab>Vid dessa ord af modern öfverfors Sigges bleka an-
                sikte af en bjärt rodnad, och han sänkte sina ögon som
@@ -2284,7 +2284,7 @@
                
                de nu — minnena, som han så länge och envist visat
                
-               ifrån sig. EE
+               ifrån sig. 
                
                Han var på nytt en liten pys, som barfota och tarf-
                ligt klädd larvade iväg fram till stationen eller herr-
@@ -2296,13 +2296,13 @@
                oförståndiga människors beröm och fagra ord. Och så
                fann han snart sig själf för stor och mors gamla stuga
                för liten och tarflig för sig. Och så började han bygga
-               luftslott. FÅ
+               luftslott. 
                
                Mor, mor — en ömmare mor än hans hade väl
                aldrig en gosse ägt. Men äfven i hennes ömhet låg väl
                en god portion högmod. Och hvilken mor är ej stolt
                öfver en son, som artar sig väl och blir observerad och
-               berömd af alla? TAR |
+               berömd af alla? 
                
                Men denna ömhet fick han åtnjuta på sin stackars
                lytte broders "bekostnad, han, som alltid fick draga
@@ -2327,7 +2327,7 @@
                äfven gått för honom. Han hade gått i sin välgörares
                
                spår och hade vid hans död kunnat upptaga hans
-               mantel. ; :
+               mantel. 
                
                Men intet närmande till dem han lämnat i den lilla
                stugan vid skogsjön. Regelbundet sände han dem ett
@@ -2366,7 +2366,7 @@
                mina ungdomsdrömmar — eller rättare storhetsdröm-
                mar — och stanna i den krets dit jag hörde,</ab>
          </div1>
-         <pb n="18"/>
+         <pb n="18" facs="#KH18"/>
          <div1 type="article" xml:id="a18.1" prev="a17.2" next="a18.2"> 
             <ab>Hm — dit ni hörde! Men fanns det då igen, som
                
@@ -2590,7 +2590,7 @@
                åskslag, väckte honom. Och om. en stund öste: regnet
                ner öfver honom: - Regnrock. och paråply hade han. vid</ab>
          </div1>
-         <pb n="19"/>
+         <pb n="19" facs="#KH19"/>
          <div1 type="article" xml:id="a19.1" prev="a18.2" next="a19.2"> 
             <ab>
                Hvar skulle han väl söka skydd? Uthusen
@@ -2826,7 +2826,7 @@
                
                tryckning så full af mjuk ömhet.</ab>
          </div1>
-         <pb n="20"/>
+         <pb n="20" facs="#KH20"/>
          <div1 type="article" xml:id="a20.1" prev="a19.2" next="a20.2">
             <ab>Så måste han med oförrrättat ärende begifva sig till-
                baka till sitt värdfolk. Där möttes han af ett telegra-
@@ -2937,8 +2937,6 @@
                
                trettio år han låtit henne lida? — Gu
                
-               é
-               
                golf. Smidet, som behöfs, gör mäster Borell, och själf
                stannar jag på platsen, tills allt är färdigt. |
                
@@ -3046,7 +3044,7 @@
                högfärdiga, men de ödmjuka gifver
                nu var Tor Skogsiö ödmjuk.</ab>
          </div1>
-         <pb n="21"/>
+         <pb n="21" facs="#KH21"/>
          <div1 type="article" xml:id="a21.1" prev="a20.2" next="a21.2"> 
             <ab>
                
@@ -3261,7 +3259,7 @@
                
                nu var den gamla trotjänarinnan död, och då längtade</ab>
          </div1>
-         <pb n="22"/>
+         <pb n="22" facs="#KH22"/>
          <div1 type="article" xml:id="a22.1" prev="a21.2" next="a22.2"> 
             <ab>hon tillbaka till sin gamla hemtrakt igen: och till: sin
                stuga.
@@ -3424,7 +3422,7 @@
                .</ab>
          </div1>
          <div1 type="article" xml:id="a22.3"> 
-            <head>En vänlig röst</head>
+            <head type="4">En vänlig röst</head>
             <ab>
             
             Hvad det är angenämt att höra en vänlig röst, en ;
@@ -3469,9 +3467,9 @@
             att visa sig kall och frånstötande mot sina närmaste,</ab>
            
          </div1>
-         <pb n="23"/>
+         <pb n="23" facs="#KH23"/>
          <div1 type="article" xml:id="a23.1" next="a23.2">
-            <head>Lögnen.</head>
+            <head type="3">Lögnen.</head>
             <byline> Af H. Courths-Mahler.</byline>
            
             <ab>Synopsis. 4 
@@ -3700,7 +3698,7 @@
          
          Han nickade. — Ja, Felicitas, du skall lära-dig rida,</ab>
          </div1>
-         <pb n="24"/>
+         <pb n="24" facs="#KH24"/>
          <div1 type="article" xml:id="a24.1" prev="a23.2" next="a24.2 ">
             <ab>så att vi kunna göra utflykter tillsammans, Min rike-
                dom skall ju framför allt tjäna till att uppfylla alla
@@ -3926,7 +3924,7 @@
                
                Bland dessa fanns ,ett med utländska frimärken,</ab>
          </div1>
-         <pb n="25"/>
+         <pb n="25" facs="#KH25"/>
          <div1 type="article" xml:id="a25.1" prev="a24.2" next="a25.2 ">
             <ab>
                
@@ -4146,7 +4144,7 @@
                att Heinz ej ville, ej kunde förlåta henne,
             </ab>
          </div1>
-         <pb n="26"/>
+         <pb n="26" facs="#KH26"/>
          <div1 type="article" xml:id="a26.1" prev="a25.2" next="a26.2 ">
             <ab>Med knutna näfvar slog han sig för sitt bröst. — Å
                du — att du kunde göra mig detta! stötte han fram.
@@ -4404,13 +4402,13 @@
             </ab>
          </div1>
          
-         <pb n="27"/>
+         <pb n="27" facs="#KH27"/>
          <div1 type="article" xml:id="a27.1" next="a27.2">
         
-         <head>Mönstertidning</head>
-            <head>Supplement to "Kvinnan och Hemmet”</head>
-            <head>Klädsömnad i Hemmet.</head>
-            <head>Från fars gamla rock och benkläder.</head>
+            <head type="1">Mönstertidning</head>
+            <head type="4">Supplement to "Kvinnan och Hemmet”</head>
+            <head type="3">Klädsömnad i Hemmet.</head>
+            <head type="4">Från fars gamla rock och benkläder.</head>
             <ab>Man behöfver icke känna sig mod-
                lös, därför att ens lilla :gosse behöf-
                
@@ -4667,7 +4665,7 @@
                      
                      lig skolklädning. Kontrasterande</ab>
                </div1>
-         <pb n="28"/>
+         <pb n="28" facs="#KH28"/>
          <div1 type="article" xml:id="a28.1"  next="a29.1">
             <ab> krage, skärp och manschetter verkar
                mycket vackert.
@@ -4716,7 +4714,7 @@
                zephyr, gingham, printed linen,
                cotton broadcloth eller mjuka siden-</ab>
          </div1>
-         <pb n="29"/>
+         <pb n="29" facs="#KH29"/>
          <div1 type="article" xml:id="a29.1"  next="a30.1">
             <ab>tyger, kunna alla användas till denna
                lilla flickklädning
@@ -4761,7 +4759,7 @@
                långa ärmar önskas, behöfs det 2¾
                yards.</ab>
             </div1>
-         <pb n="30"/>
+         <pb n="30" facs="#KH30"/>
          <div1 type="article" xml:id="a30.1"  next="a31.1">
             <ab>No. 8940. Ny, vacker klädning.
                Printed silk, canton crepe, taffeta
@@ -4852,7 +4850,7 @@
                Kvinnan och Hemmet,. . Cedar Rapida, Iowa. Beloppet kan insändas i frimärken.
             </ab>
          </div1>
-         <pb n="31"/>
+         <pb n="31" facs="#KH31"/>
          <div1 type="article" xml:id="a31.1"  next="a44.1">
             <ab>Till 38 tums storlek åtgår det 4
               yards af 39 tums tyg, samt ½, yard
@@ -4923,10 +4921,10 @@
                   katalog, som innehåller· 500 af -de nyaste mönster, · '
                   Märk endast eri af dessa rubriker för storlek.</ab>
          </div1>
-         <pb n="32"/>
+         <pb n="32" facs="#KH32"/>
          <div1 type="article" xml:id="a32.1"  next="a32.2">
-            <head>Handarbete</head>
-<head>            Luncheon- eller bordduk i rosettmönster.*)
+            <head type="3">Handarbete</head>
+            <head type="4">            Luncheon- eller bordduk i rosettmönster.*)
    (Ill. 1.)</head>
             <p>Börja med att slå
                upp en kedja af 55 m (maskor).</p>
@@ -5124,7 +5122,7 @@
             4 lh, 4 st, 1 staf, 1 Jet, 1 staf, 1 lh, 4
             st, 3 1.</p>
          </div1>
-         <pb n="33"/>
+         <pb n="33" facs="#KH33"/>
          <div1 type="article" xml:id="a33.1"  next="a33.2">
             <p>42. hv.: 9 st, 1 lh, 1 staf, 10 st, 4
             lh. Förena mellan 4 st och lh,</p>
@@ -5178,7 +5176,7 @@
             spetsen.</p>
          </div1>
          <div1 type="article" xml:id="a33.2" prev="a33.1"  next="a33.3">
-            <head>Virkad barnhatt. (111. 2.) </head>
+            <head type="4">Virkad barnhatt. (111. 2.) </head>
             <p>Härtill
             behöfs ett 200 yards nystan gult
             pärlgarn no. 5, en 25-yards skein
@@ -5274,7 +5272,7 @@
          </div1>
          
          <div1 type="article" xml:id="a33.5" prev="a33.4">
-            <head>Sällsynt, stickad väska. (Ill. 3.)</head>
+            <head type="4">Sällsynt, stickad väska. (Ill. 3.)</head>
             <p>Hartill var användt hvitt och linnefärgat
             pärlgarn no. 5 och stickor
             no. 12. Slå upp 63 m (maskor) med
@@ -5322,12 +5320,12 @@
             Med den kontrasterande färgen virka
             8 stolpar i hvarje f m.</p>
          </div1>
-         <pb n="34"/>
+         <pb n="34" facs="#KH34"/>
          
          <div1 type="article" xml:id="a34.1" next="a34.2">
-            <head>"Kvinnan och Hemmet"s broderiafdelning.</head>
-            <head>Nya Septemberarbeten.</head>
-            <head>No. 2591-2593. Löpare med set.</head>
+            <head type="2">"Kvinnan och Hemmet"s broderiafdelning.</head>
+            <head type="3">Nya Septemberarbeten.</head>
+            <head type="4">No. 2591-2593. Löpare med set.</head>
            <p> vi
             se endast löparen i detta, af tre
             smakfulla-delar bestående, set, men
@@ -5346,7 +5344,7 @@
             tjusande set.</p>
          </div1>
             <div1 type="article" xml:id="a34.2" next="a34.3">
-            <head>No. a712. Kortbordsduk.</head> 
+               <head type="4">No. a712. Kortbordsduk.</head> 
             <p>Denna 
             passar till ett kortbord och är
             på tan crash. Det är tillika den
@@ -5363,7 +5361,7 @@
          </div1>
          
          <div1 type="article" xml:id="a34.4" prev="a34.3" next="a34.5">
-            <head>No. 2931-2933. Kökshanddukar.</head>
+            <head type="4">No. 2931-2933. Kökshanddukar.</head>
             <p>Dessa handdukar. med sina nya,
             vackra mönster; som till stör del- äro
             tårglagda med äkta oljefärger, äro
@@ -5377,7 +5375,7 @@
              ut. De äro begge 16X32· tum stora.</p>
          </div1>
          <div1 type="article" xml:id="a34.5" prev="a34.4" next="a34.6">
-            <head>No. 2641-2642. Soffkuddar.</head> 
+            <head type="4">No. 2641-2642. Soffkuddar.</head> 
             <p>Quilt-
             ing intager nu.Tör tiden en fram-
             stående plats och är särskilt effektif
@@ -5394,7 +5392,7 @@
             <p>No. 2642 är. på :rosafärgad satin.</p>
          </div1>
          <div1 type="article" xml:id="a34.7" prev="a34.6" next="a34.8">
-            <head>No. 1146. Sängtäcke</head> 
+            <head type="4">No. 1146. Sängtäcke</head> 
             <p>Ett rent, vackert
             sängtäcke, ger ,hela. sofrummet.
             en prägel af trefnad, och af alla
@@ -5411,7 +5409,7 @@
             crepe.</p>
          </div1>
          <div1 type="article" xml:id="a34.8" prev="a34.7" next="a35.1">
-            <head>No. 2762-2763. Nya soffkuddar,</head>
+            <head type="4">No. 2762-2763. Nya soffkuddar,</head>
             <p>Dessa förtjusande kuddar, med sina
             vackra silhuettmönster, broderas
             med stoppstygn, hvarviddenna fyll</p>
@@ -5429,7 +5427,7 @@
          </div1>
          
          <div1 type="article" xml:id="a35.2" prev="a35.1" next="a35.3">
-           <head> No. 2941.,-2943. Huckhanddukar</head>
+            <head type="4"> No. 2941.,-2943. Huckhanddukar</head>
             <p>Dessa tre' nätta gästrumshanddukar
             äro 18X27 tum stora och äro pänn
             mycket god kvalitet · honeycomb
@@ -5443,7 +5441,7 @@
             lazy-daisy- och tråckelstygn.</p>
          </div1>
          <div1 type="article" xml:id="a35.3" prev="a35.2" next="a35.4">
-           <head> No. 123. .Linen set.</head> <p>För alla våra
+            <head type="4"> No. 123. .Linen set.</head> <p>För alla våra
             duktiga; energiska läsarinnor, som
             önska ett handarbete, hvilket verkligen
             är värt mödan, erbjuda vi detta
@@ -5460,7 +5458,7 @@
             i  särskild grad förtjusande.</p>
          </div1>
          <div1 type="article" xml:id="a35.4" prev="a35.3" next="a35.5">
-            <head>No. 501, -503, 506, 508, 510 och 511.
+            <head type="4">No. 501, -503, 506, 508, 510 och 511.
             Quiltblocks.</head> <p>Korsstygn äro, i fyra af
             dessa populära quiltpatches fördelaktigt
             använda och bilda ovanligt
@@ -5519,9 +5517,9 @@
                Kvinnan och Hemmet, Cedar Rapids, Iowa.
                Beloppet kan insändas i frimärken</p>
          </div1>
-         <pb n="36"/>
+         <pb n="36" facs="#KH36"/>
          <div1 type="article" xml:id="a36.1"  next="a36.2">
-           <head> För barnkammaren.</head>
+            <head type="2"> För barnkammaren.</head>
             <byline>Af Helen Kaufman,</byline>
            <p> Det lilla sängtäcket, som vi här
             ·utvisa, är lika tilltalande som det är
@@ -5538,7 +5536,7 @@
          </div1>
          
          <div1 type="article" xml:id="a36.2" prev="a36.1"  next="a36.3">
-            <head>K 960. Barnsänqstäcke</head> <p>Detta sängtäcke,
+            <head type="4">K 960. Barnsänqstäcke</head> <p>Detta sängtäcke,
             bestående af 12 tio tum breda
             fyrkanter, är försett med välkända
             djurfigurer, som helt visst äro roande
@@ -5597,7 +5595,7 @@
          </div1>
          
          <div1 type="article" xml:id="a36.6" prev="a36.5" next="a36.7">
-            <head>K 961. Kudde. Denna kudde.</head> 
+            <head type="4">K 961. Kudde. Denna kudde.</head> 
             <p>som
             passar mycket bra till ofvanstående
             täcke, är 12X14 tum stor. De tre
@@ -5617,7 +5615,7 @@
          </div1>
          
          <div1 type="article" xml:id="a36.8" prev="a36.7">
-            <head>Pris för broderimönster,</head>
+            <head type="4">Pris för broderimönster,</head>
             <p>och uppritade arbeten . som förut beskrifvits
             I detta häfte, allt portofritt.
             , Perforerade påritningsmönster innefattande
@@ -5648,9 +5646,9 @@
          </div1>
      
    
-         <pb n="37"/>
+         <pb n="37" facs="#KH37"/>
          <div1 type="article" xml:id="a37.1" next="a37.2">
-            <head>För Milady's boudoir.</head>
+            <head type="2">För Milady's boudoir.</head>
            <p> Man kan icke annat än beundra
             ett sofrum, som har handbroderade
             gardiner; löpare, kuddar, ja, kort
@@ -5670,7 +5668,7 @@
             
          </div1>
          <div1 type="article" xml:id="a37.2" prev="a37.1" next="a37.3">
-            <head>No; 5437-5443. Förtjusande soffrums
+            <head type="4">No; 5437-5443. Förtjusande soffrums
             set.</head> <p>Detta vackra set kommer
             att verka mycket prydligt i hvilket
             sofrum som helst och ge uttryck .åt
@@ -5723,7 +5721,7 @@
                portofritt.</p>
          </div1>
             <div1 type="ad" xml:id="a37.5" prev="a37.4" next="a37.6">
-               <head>Nya virkböcker.</head> 
+               <head type="2">Nya virkböcker.</head> 
                <p>som premie eller portofritt för 12 cents stycket.</p>
                
                   <p>Virkbok No. 1, af Marie Antoinette, inne-
@@ -5841,10 +5839,10 @@
                   Mrs. IDA HANSEN,
                   Kvinnan och Hemmet, Cedar Rapids, Iowa.</p>
          </div1>
-         <pb n="38"/>
+         <pb n="38" facs="#KH38"/>
          <div1 type="poem" xml:id="a38.1">
-         <head>Våra Mödrar.</head>
-         <head>VÄFNADEN.</head>
+            <head type="2">Våra Mödrar.</head>
+            <head type="3">VÄFNADEN.</head>
          
         <byline>Af May.</byline>
          
@@ -5883,11 +5881,11 @@
          <l>Men tiden med hastighet väfver lifvet.</l></lg>
          </div1>
          <div1 type="article" xml:id="a38.2" next="a38.3">
-            <head>Att behålla goda tänder genom lifvet.</head>
+            <head type="3">Att behålla goda tänder genom lifvet.</head>
             <byline>Af Ethel M. Hendriksen.</byline>
             
    
-            <p>Babyy har fått sin första tand!
+            <p>Baby har fått sin första tand!
             Fram under det ljusröda tand-
             köttet kommer - den lilla pärllika
             framtanden, som är föremål för till-
@@ -6103,7 +6101,7 @@
          </div1>
          <div1 type="ad" xml:id="a38.3">
             
-           <head> Ung hustru lycklig nu.</head>
+            <head type="3"> Ung hustru lycklig nu.</head>
             
             <ab>Innan min lilla dotter föd-
             des tog jag Lydia E. Pink-I
@@ -6129,7 +6127,7 @@
             Vegetable Compound
             <name type="org">Lydia E. Pinkham Med. Co.,</name> Lynn, Mass.</ab>
          </div1>
-         <pb n="39"/>
+         <pb n="39" facs="#KH39"/>
          <div1 type="article" xml:id="a39.1" prev="a38.2" next="a39.2">
             <p>är en del af tandläkararbetet, känt
             som orthodontics. Den vanliga tandläkaren
@@ -6286,7 +6284,7 @@
             förebyggande.</p>
          </div1>
          <div1 type="article" xml:id="a39.3" prev="a39.1">
-            <head>Om löften till barn.</head>
+            <head type="3">Om löften till barn.</head>
             <p>På ett underligt och beklagansvärt
             sätt ser man ibland de beskedligaste
             människor förvandlas till
@@ -6359,11 +6357,11 @@
                KUNGSHOLM................. 11, 0kt.
                <name type="org">Swedish American Line.</name> 181 N. Michigan Ave.. Chicago, III.</ab>
          </div1>
-         <pb n="40"/>
+         <pb n="40" facs="#KH40"/>
          <div1 type="article" xml:id="a40.1">
-            <head>Köket.</head>
+            <head type="2">Köket.</head>
             
-            <head>Pickles och Relishes.</head>
+            <head type="4">Pickles och Relishes.</head>
             
             <p>En smaklig måltid blir ofta mera
             tillfredsställande med tillhjälp af
@@ -6385,7 +6383,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.2">
-            <head>Pickled blomkål.</head> <p>Skär blomkå-
+            <head type="4">Pickled blomkål.</head> <p>Skär blomkå-
             len i bitar. Lägg dem på en tallrik
             och strö rikligt med salt öfver, samt
             låt det stå i 24 timmar. Afsila allt
@@ -6403,7 +6401,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.3">
-            <head>Pickled morötter.</head> <p>Morötter skra-
+            <head type="4">Pickled morötter.</head> <p>Morötter skra-
             pas och tvättas. Koka dem möra i
             saltvatten, i hvilket är tillsatt 3 te-
             sked salt till hvarje quart. Hälles i
@@ -6419,7 +6417,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.4">
-            <head>Sylt af rödpeppar.</head><p> Aflägsna fröna
+            <head type="4">Sylt af rödpeppar.</head><p> Aflägsna fröna
             från 12 stora röda, söta pepparhus
             och mal dem genom köttkvarnen;
             använd den . mellanstora knifven.
@@ -6438,7 +6436,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.5" next="a40.6">
-            <head>Selleri relish.</head> <p>1 quart hackad
+            <head type="4">Selleri relish.</head> <p>1 quart hackad
             
             selleri och 1 kopp hackad lök kokas
             
@@ -6460,7 +6458,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.7">
-            <head>Äppel "Pickle”.</head> <p>Skala, aflägsna
+            <head type="4">Äppel "Pickle”.</head> <p>Skala, aflägsna
             kärnhusen och dela syrliga äpplen i
             fyra delar — tillräckligt till 3 pints.
             Stick flera hela nejlikor i hvart
@@ -6475,7 +6473,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.8">
-            <head>Tomater i senap.</head> <p>Skifva gröna
+            <head type="4">Tomater i senap.</head> <p>Skifva gröna
             tomater 3 tum tjocka; beströs med
             salt och får afrinna öfver natten.
             i
@@ -6486,7 +6484,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.9">
-            <head>Gurk relish.</head> <p>Skala, skifva och
+            <head type="4">Gurk relish.</head> <p>Skala, skifva och
             
             hacka stora :gurkor; de saltas och
             få afrinna. Till hvar qvart beräk-
@@ -6501,7 +6499,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.10">
-            <head>Gurkpickles i olja.</head> <p>Det är bäst att
+            <head type="4">Gurkpickles i olja.</head> <p>Det är bäst att
             använda stora gurkor till detta. Ska-
             la och skär dem i mycket tunna
             skifvor. Till 1 gallon af skifvade
@@ -6516,7 +6514,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.11">
-            <head>Pimento pickles.</head> <p>4 quarts skifva-
+            <head type="4">Pimento pickles.</head> <p>4 quarts skifva-
             de gurkor, 1 quart skifvade lökar, 1-
             
             kopp konserverade pimentos, 1 mat-
@@ -6528,7 +6526,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.12">
-            <head>Blandade söta pickles.</head> <p>2 quarts
+            <head type="4">Blandade söta pickles.</head> <p>2 quarts
             gröna tomater skifvas mycket tun-
             na, 3 röda och 3 gröna pepparhus
             aflägsnas från frö och hvita fibrer,
@@ -6562,7 +6560,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.14">
-            <head>Pimento sweet pickle.</head><p> 2 dussin
+            <head type="4">Pimento sweet pickle.</head><p> 2 dussin
             starkt röda, söta pepparhus tvättas;
             aflägsna frö och hvita fibrer, samt
             låt dem ligga i blöt öfver natten i
@@ -6593,7 +6591,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.15">
-            <head>Mustard pickles.</head> <p>2 blomkålshuf-
+            <head type="4">Mustard pickles.</head> <p>2 blomkålshuf-
             vud brytas i mycket små stycken;
             hacka 2 quarts gröna tomater och 6
             gröna pepparhus groft och häll i 1
@@ -6622,7 +6620,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.16">
-           <head> Okokt äppel chutney.</head> <p>2 quarts
+            <head type="4"> Okokt äppel chutney.</head> <p>2 quarts
             gröna äpplen skalas och kärnhusen
             borttages, och 1 quart mogna toma-
             ter skalas. Det hela blandas med 3
@@ -6645,7 +6643,7 @@
          </div1>
          
          <div1 type="article" xml:id="a40.17" next="a41.1">
-            <head>Okokt hackad pickle.</head><p> 2 quarts
+            <head type="4">Okokt hackad pickle.</head><p> 2 quarts
             hackade tomater, 1 quart selleritär-
             
             ningar, + kopp hackad lök och 2
@@ -6661,7 +6659,7 @@
             ke tyg, och häll öfver 1 kopp socker,
             </p>
          </div1>
-         <pb n="41"/>
+         <pb n="41" facs="#KH41"/>
          
          <div1 type="article" xml:id="a41.1" prev="a40.17">
             <p>i kopp salt, 1 quart ättika och ii
@@ -6670,7 +6668,7 @@
             dem väl täckta.</p>
          </div1>
             <div1 type="article" xml:id="a41.2">
-            <head>Tomat pickles i olja.</head> <p>l peck gröna
+               <head type="4">Tomat pickles i olja.</head> <p>l peck gröna
             tomater och 2 quarts lök skifvas
             mycket tunt, strö 1 kopp salt öfver
             och låt dem stå öfver natten. Nästa
@@ -6697,7 +6695,7 @@
             och tilltäck väl.</p>
             </div1>
          <div1 type="article" xml:id="a41.3">
-            <head>Sur succotash.</head><p>Tag lika mycket
+            <head type="4">Sur succotash.</head><p>Tag lika mycket
             lima bönor och corn. Värm ättika,
             kryddad med salt, peppar och brunt
             socker. Till hvarje quart ättika beräkna
@@ -6707,7 +6705,7 @@
             succotach.</p>
          </div1>
          <div1 type="article" xml:id="a41.4">
-            <head>Nejlika-Vattenmelon.</head> <p>8 pund vattenmelon
+            <head type="4">Nejlika-Vattenmelon.</head> <p>8 pund vattenmelon
             lägges i saltvatten öfver
             natten och får afrinna. Värm 1
             quart ättika, 4 pund socker, ½ kopp
@@ -6715,7 +6713,7 @@
             häri i 3 timmar; lägges på flaskor.</p>
          </div1>
          <div1 type="article" xml:id="a41.5">
-            <head>Grönsaks chow ohow.</head> <p>Tillbered
+            <head type="4">Grönsaks chow ohow.</head> <p>Tillbered
             grönsakerna, lägg i lager, salta lätt
             och låt det hela afrinna öfver natten.
             Använd l quart frisk corn, 2
@@ -6731,7 +6729,7 @@
             Upphälles och förseglas.</p>
          </div1>
          <div1 type="article" xml:id="a41.6">
-            <head>Kryddad lök.</head> <p>Beräkna l kopp ättika,
+            <head type="4">Kryddad lök.</head> <p>Beräkna l kopp ättika,
             l tesked blandade kryddor och
             2 matskedar socker till hvar quart
             lök. Koka sakta, så löken håller sig
@@ -6740,7 +6738,7 @@
             fiskbullar och kött pies</p>
          </div1>
          <div1 type="article" xml:id="a41.7">
-            <head>Tomat hash,</head> <p>Detta kräfver ingen
+            <head type="4">Tomat hash,</head> <p>Detta kräfver ingen
             kokning och kan lagas och serveras
             inom ½ timme, men kan också förvaras
             i burkar. 2 gurkor, 1 stor lök,
@@ -6752,7 +6750,7 @@
             serverat med kallt kött.</p>
          </div1>
          <div1 type="article" xml:id="a41.8">
-            <head>Kryddad gele.</head> <p>½ peck vilda vindrufvor
+            <head type="4">Kryddad gele.</head> <p>½ peck vilda vindrufvor
             sköljes och rensas, Tillsätt
             1 pint ättika, 2 matskedar hela nejlikor,
             en 6 tum lång kanelstång och
@@ -6766,7 +6764,7 @@
             glas och försegla. Serveras till kötträtter.</p>
          </div1>
          <div1 type="article" xml:id="a41.9">
-            <head>Kryddade vindrufvor.</head> <p>Aflägsna
+            <head type="4">Kryddade vindrufvor.</head> <p>Aflägsna
             skinnet från 8 pund vindrufvor, lägg
             skinnet åt sidan och koka massan i
             3 koppar ättika med 4 kanelstänger
@@ -6782,7 +6780,7 @@
             i steriliserade glas och förseglas.</p>
          </div1>
          <div1 type="article" xml:id="a41.10">
-            <head>Rödbets pickle.</head> <p>Till hvar kopp
+            <head type="4">Rödbets pickle.</head> <p>Till hvar kopp
             hackade rödbetor använd l kopp
             ättika i hvilken 2 kanelstänger
             och 1 tesked hela nejlikor har blifvit
@@ -6790,7 +6788,7 @@
             1 timme och försegla.</p>
          </div1>
          <div1 type="article" xml:id="a41.11">
-            <head>Pickled rödkål.</head><p>Aftorka eller tvätta
+            <head type="4">Pickled rödkål.</head><p>Aftorka eller tvätta
             kålen, dela i fyra delar och finhacka
             den. Packas lagervis i en lerkruka,
             med salt mellan hvarje lager.
@@ -6810,7 +6808,7 @@
             en veckas förlopp.</p>
          </div1>
          <div1 type="article" xml:id="a41.12">
-            <head>Kryddade pickled peaches.</head> <p>6 pund
+            <head type="4">Kryddade pickled peaches.</head> <p>6 pund
             peaches skalas; skinnet kokas i vatten,
             så att l kopp saft erhålles. Häri
             hälles 2 koppar svag ättika, 6 koppar
@@ -6826,7 +6824,7 @@
             efter egen önskan.</p>
          </div1>
          <div1 type="article" xml:id="a41.13">
-            <head>Dill pickles.</head> <p>På botten af en 4 gallon
+            <head type="4">Dill pickles.</head> <p>På botten af en 4 gallon
             stenkruka eller bytta, lägg ett
             lager dillstjälkar och ½ ounce blandade
             kryddor. Fyll behållaren med
@@ -6858,7 +6856,7 @@
             viktig tillökning i vårt förråd.</p>
          </div1>
          <div1 type="article" xml:id="a41.14">
-            <head>Skifvad gurk-pickles.</head> <p>Skär 25 gurkor
+            <head type="4">Skifvad gurk-pickles.</head> <p>Skär 25 gurkor
             -- 4-5 tum långa - i skifvor,
             men skala dem icke. Häll 1 kopp
             salt öfver dem, täck med kokande
@@ -6875,7 +6873,7 @@
             läggas i krukor.</p>
          </div1>
          <div1 type="article" xml:id="a41.15">
-            <head>Gurk-catchup.</head> <p>Rif 12 gurkor, hvilka
+            <head type="4">Gurk-catchup.</head> <p>Rif 12 gurkor, hvilka
             icke få vara alltför mogna, och
             låt afrinna i durkslag. Hacka 3 stora
             lökar mycket fint, blanda med l
@@ -6888,7 +6886,7 @@
             kötträtter.</p>
          </div1>
          <div1 type="article" xml:id="a41.16">
-            <head>Rödbet relish.</head> <p>1 quart kokta, finhackade
+            <head type="4">Rödbet relish.</head> <p>1 quart kokta, finhackade
             rödbetor, 1 quart rå hvitkål,
             ½ kopp rifven pepparrot, 2 koppar
             socker, 1 matsked salt, och ättika
@@ -6899,7 +6897,7 @@
             förvara på kallt ställe.</p>
          </div1>
          <div1 type="article" xml:id="a41.17">
-            <head>Kryddade päron.</head> <p>Laga en sockerlag
+            <head type="4">Kryddade päron.</head> <p>Laga en sockerlag
             af 5 pund socker, 1 pint ättika
             samt 1 tesked hvardera af nejlikor,
             -kanel och muskotblomma. Kryddorna
@@ -6914,7 +6912,7 @@
             frukten. Försegla väl.</p>
          </div1>
          <div1 type="article" xml:id="a41.18">
-            <head>Syltade päron med ingefära.</head><p> 14 till
+            <head type="4">Syltade päron med ingefära.</head><p> 14 till
             16 pund söta, mogna päron, gifves
             ett uppkok, skalas, hvarefter de tillsättes
             med 5 pund socker, 10 till 12
@@ -6924,10 +6922,10 @@
             sega.) Lägg upp i burkar och
             försegla.</p>
          </div1>
-         <pb n="42"/> 
+         <pb n="42" facs="#KH42"/> 
          <div1 type="article" xml:id="a42.1" next="a42.2">
-            <head>Kring hus och hem.</head>
-            <head>Färg i köket.</head>
+            <head type="3">Kring hus och hem.</head>
+            <head type="4">Färg i köket.</head>
            <byline> Af Antoinette Perrett.</byline>
            
             <p>Plötsligt som genom ett trollslag
@@ -7072,7 +7070,7 @@
             
             </div1>
          <div1 type="article" xml:id="a42.3" >
-            <head>Prisbelönt recept.</head>
+            <head type="4">Prisbelönt recept.</head>
             <p>En af våra gamla prenumeranter,
             <name type="person">Mrs. N. M. Hornum;</name> 1140 C. Ave.
             W., Cedar Rapids, Iowa, tilldelades
@@ -7180,11 +7178,11 @@
      
                  
          </div1>
-         <pb n="43"/> 
+         <pb n="43" facs="#KH43"/> 
          <div1 type="article" xml:id="a43.1" next="43.2">
-            <head>Fönster- och blomster-.
+            <head type="3">Fönster- och blomster-.
             trädgården.</head>
-            <head>Trädgården i September.</head>
+            <head type="4">Trädgården i September.</head>
             <byline>Af Grace Tabor.</byline>
             <p>
             Jag tycker om att taga en promenad
@@ -7425,7 +7423,7 @@
                torium,</name> Minneapolis, Minn.</ab>
              <ab> Sänd oss en ny prenumerant.</ab>
          </div1>
-         <pb n="44"/>
+         <pb n="44" facs="#KH43"/>
          <div1 type="article" xml:id="a44.1" prev="13.2">
             <ab>I sträfvan och sorg.
                (Forts. från sidan 13. 1
@@ -7730,9 +7728,9 @@
                var bara två ord. "Jag kommer I
                Thordis."</ab>
          </div1>
-         <pb n="45"/>
+         <pb n="45" facs="#KH45"/>
          <div1 type="article" xml:id="a45.1" next="a45.2">
-         <head>Kungens handske</head>
+            <head type="1">Kungens handske</head>
          <byline>Historisk "berättelse af Zacharias Topelius.</byline>
          
          <ab>Det finnes ingen bättre vän än en god bok,
@@ -7884,10 +7882,10 @@
                
                R. Box......Stad —.... Stat.</ab></div1>
 
-         <pb n="46"/>
+         <pb n="46" facs="#KH46"/>
          
          <div1 type="article" xml:id="a46.1" prev="a7.1">
-            <head>Ett besök i Grönland.</head>
+            <head type="4">Ett besök i Grönland.</head>
             <ab>(Forts. från ··sidan 6.)
                nier nedtryckes af fattigdom. I de senare
                åren ha inbyggarna varit tvungna att se sig
@@ -7986,9 +7984,9 @@
          </div1>
          
          <div1 type="ad" xml:id="a46.3" >
-            <head>KOSTADE 85 CENTS I MÅNADEN
+            <head type="1">KOSTADE 85 CENTS I MÅNADEN
             ATT MINSKA PUND AF FUL FETMA.</head>
-            <head>Tusenden af kvinnor veta
+            <head type="3">Tusenden af kvinnor veta
             detta är sant.</head>
             <ab>Hur skulle ni tycka om att minska 15 pund
             af fetma på en månad och på samma gång
@@ -8138,9 +8136,9 @@
                Kvinnan och Hemmet,
                Cedar Rapids, Iowa.</ab>
          </div1>
-         <pb n="47"/>
+         <pb n="47" facs="#KH47"/>
          <div1 type="ad" xml:id="a47.1" >
-            <head>Våra Läsares Spalt.</head>
+            <head type="3">Våra Läsares Spalt.</head>
             <p>Vill härmed hjärtligt tacka Mrs. Ida Hari'
             sen för den innehållsrika tidningen Kv nuan
             IOch Hemmet, med sina många mönster och
@@ -8396,13 +8394,13 @@
             
          </div1>
          
-         <pb n="48"/>
+         <pb n="48" facs="#KH48"/>
          
          
          <div1 type="ad" xml:id="a48.1" next="a48.2">
-            <head>Hansen's billiga böcker.
+            <head type="1">Hansen's billiga böcker.
                </head>
-            <head>Till reducerade priser!</head>
+            <head type="3">Till reducerade priser!</head>
             <ab>Vi ha beslutat att reducera vårt stora lager af böcker för att skaffa
             plats på våra hyllor för de nya böcker som vi ständigt trycka, och
             
@@ -8655,7 +8653,7 @@
             lyckas hon till slut föra sig själf och andra ut i ljuset. Boken är på
             96 gidor. Sändes portofritt för 10 cents.</ab>
          </div1>
-         <pb n="49"/>
+         <pb n="49" facs="#KH49"/>
          <div1 type="ad" xml:id="a49.1" next="a49.2">
          <ab>No. 28. Små bilder ur allmogelifvet. Af Henrik Wranér. Själf
          en man som utgått ur ett allmogehem tecknar han skånska bönder
@@ -8923,7 +8921,7 @@
          
          afhållna författarinna, hvilkas böcker präglas af en viss religiös</ab>
             </div1>
-         <pb n="50"/>
+         <pb n="50" facs="#KH50"/>
          
          <div1 type="ad" xml:id="a50.1" prev="a49.2">
             
@@ -9030,7 +9028,7 @@
          </div1>
          <div1 type="article" xml:id="a50.2" >
          
-        <head> Den blå Karbunkeln.</head>
+            <head type="3"> Den blå Karbunkeln.</head>
          
          <byline>Af Conan Doyle.</byline>
     
@@ -9116,7 +9114,7 @@
          Stad...................Stat...........</ab>
         </div1>
          
-         <pb n="51"/>
+         <pb n="51" facs="#KH51"/>
          <div1 type="article" xml:id="a51.1" next="a51.2">
          <p>DET finns väl ingen svensk, som ej känner hi-
          storien angående denne konung, hvars minne
@@ -9251,10 +9249,10 @@
          Stad...............Stat......</ab>
         
             </div1>
-         <pb n="52"/>
+         <pb n="52" facs="#KH52"/>
          <div1 type="ad" xml:id="a52.1" next="a52.2">
          
-         <head>Att bliva gammal men hålla sig ung.</head> 
+            <head type="2">Att bliva gammal men hålla sig ung.</head> 
          
          <p>DET är glädjande att höra att människans genom-
          snittsålder betydligt ökats under de senaste 25
@@ -9360,7 +9358,7 @@
             </div1>
             <div1 type="ad" xml:id="a52.3" next="a52.4">
          
-        <head> Svårt eksem under många år.</head> 
+               <head type="2"> Svårt eksem under många år.</head> 
              <ab>  <name type="org">St. Louis, Mo.
          
          Dr. Peter Fahrney &amp; Sons,</name>
@@ -9393,7 +9391,7 @@
             </div1>
                <div1 type="ad" xml:id="a52.4" prev="a52.3" next="a52.5">
          
-         <head>En underbar erfarenhet.</head>
+                  <head type="4">En underbar erfarenhet.</head>
                
                
         <ab> Ruby, Ont.
@@ -9415,7 +9413,7 @@
          
          </div1>
          <div1 type="ad" xml:id="a52.6" prev="a52.5" next="a52.7">
-            <head>Från pastor H. F. Ahrens.</head>
+            <head type="4">Från pastor H. F. Ahrens.</head>
        <ab>  
          Colorado Springs, Colo.
          
@@ -9432,7 +9430,7 @@
          Högaktningsfullt, — <name type="person">Pastor H. F. Ahrens.</name></ab>
          </div1>
          <div1 type="ad" xml:id="a52.7" prev="a52.6" next="a52.8">
-            <head>Frisk och kry vid 71 års ålder.</head>
+            <head type="4">Frisk och kry vid 71 års ålder.</head>
         <ab> 
          Booker, Texas.
          Ärade Herrar: — Vi ha envänt Dr. Peters Kuriko med tillfreds-
@@ -9443,7 +9441,7 @@
          
          </div1>
          <div1 type="ad" xml:id="a52.8" prev="a52.7" >
-            <head>Njuter av livet vid 85 års ålder.</head>
+            <head type="4">Njuter av livet vid 85 års ålder.</head>
         <ab> 
          
          Norton, N. J.

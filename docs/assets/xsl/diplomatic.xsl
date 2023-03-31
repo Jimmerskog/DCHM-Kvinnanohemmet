@@ -102,17 +102,53 @@
     process underneath (nested in) tei lb's. Therefore the XSLT processor does not need to look for templates to
     apply to the nodes nested within it.-->
 
-    <!-- we turn the tei head element (headline) into an html h1 element-->
-    <xsl:template match="tei:head">
+    <!-- we turn the tei head element (headline) into an html h2 element-->
+    <xsl:template match="tei:head[@type='1']">
         <h2>
             <xsl:apply-templates/>
         </h2>
+    </xsl:template>
+    
+    <!-- we turn the tei head element (headline) into an html h3 element-->
+    <xsl:template match="tei:head[@type='2']">
+        <h3>
+            <xsl:apply-templates/>
+        </h3>
+    </xsl:template>
+    
+    <!-- we turn the tei head element (headline) into an html h1 element-->
+    <xsl:template match="tei:head[@type='3']">
+        <h4>
+            <xsl:apply-templates/>
+        </h4>
+    </xsl:template>
+
+    <!-- we turn the tei head element (headline) into an html h1 element-->
+    <xsl:template match="tei:head[@type='4']">
+        <h6>
+            <xsl:apply-templates/>
+        </h6>
+    </xsl:template>
+
+    <!-- we turn the byline element into an html h6 element-->
+    <xsl:template match="tei:byline">
+        <h6>
+            <xsl:apply-templates/>
+        </h6>
     </xsl:template>
 
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
         <p>
             <!-- apply matching templates for anything that was nested in tei:p -->
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    
+    <!-- transform tei anonymous blocks into html paragraphs -->
+    <xsl:template match="tei:ab">
+        <p>
+            <!-- apply matching templates for anything that was nested in tei:ab -->
             <xsl:apply-templates/>
         </p>
     </xsl:template>
@@ -131,13 +167,7 @@
         </sup>
     </xsl:template>
     
-    <!-- transform tei anonymous blocks into html paragraphs -->
-    <xsl:template match="tei:ab">
-        <p>
-            <!-- apply matching templates for anything that was nested in tei:ab -->
-            <xsl:apply-templates/>
-        </p>
-    </xsl:template>
+    
 
     <!-- transform tei hi (highlighting) with the attribute @rend="u" into html u elements -->
     <!-- how to read the match? "For all tei:hi elements that have a rend attribute with the value "u", do the following" -->
