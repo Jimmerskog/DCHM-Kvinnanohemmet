@@ -77,7 +77,7 @@
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                         2023 Carolina Jimmerskog.
                       </div>
                     </div>
                 </div>
@@ -94,18 +94,63 @@
     stops the text nodes underneath (=nested in) teiHeader from being printed into our
     html-->
     <xsl:template match="tei:teiHeader"/>
-
-    <!-- we turn the tei head element (headline) into an html h1 element-->
-    <xsl:template match="tei:head">
+    
+    <!-- we turn the tei head element (headline) into an html h2 element-->
+    <xsl:template match="tei:head[@type='1']">
         <h2>
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
+    
+    <!-- we turn the tei head element (headline) into an html h3 element-->
+    <xsl:template match="tei:head[@type='2']">
+        <h3>
+            <xsl:apply-templates/>
+        </h3>
+    </xsl:template>
+    
+    <!-- we turn the tei head element (headline) into an html h1 element-->
+    <xsl:template match="tei:head[@type='3']">
+        <h4>
+            <xsl:apply-templates/>
+        </h4>
+    </xsl:template>
+    
+    <!-- we turn the tei head element (headline) into an html h1 element-->
+    <xsl:template match="tei:head[@type='4']">
+        <h6>
+            <xsl:apply-templates/>
+        </h6>
+    </xsl:template>
+    
+    <!-- we turn the byline element into an html h6 element-->
+    <xsl:template match="tei:byline">
+        <h6>
+            <xsl:apply-templates/>
+        </h6>
+    </xsl:template>
+
 
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
         <p>
             <!-- apply matching templates for anything that was nested in tei:p -->
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    
+    <!-- transform tei anonymous blocks into html paragraphs -->
+    <xsl:template match="tei:ab">
+        <p>
+            <!-- apply matching templates for anything that was nested in tei:ab -->
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    
+    <!-- transform tei line groups into html paragraphs -->
+    <xsl:template match="tei:lg">
+        <p>
+            <!-- apply matching templates for anything that was nested in tei:lg -->
             <xsl:apply-templates/>
         </p>
     </xsl:template>
@@ -122,14 +167,6 @@
         <sup>
             <xsl:apply-templates/>
         </sup>
-    </xsl:template>
-    
-    <!-- transform tei anonymous blocks into html paragraphs -->
-    <xsl:template match="tei:ab">
-        <p>
-            <!-- apply matching templates for anything that was nested in tei:ab -->
-            <xsl:apply-templates/>
-        </p>
     </xsl:template>
 
     <!-- transform tei hi (highlighting) with the attribute @rend="u" into html u elements -->

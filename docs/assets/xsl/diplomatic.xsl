@@ -152,6 +152,14 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    
+    <!-- transform tei line groups into html paragraphs -->
+    <xsl:template match="tei:lg">
+        <p>
+            <!-- apply matching templates for anything that was nested in tei:lg -->
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
 
     <!-- transform tei del into html del -->
     <xsl:template match="tei:del">
@@ -166,8 +174,6 @@
             <xsl:apply-templates/>
         </sup>
     </xsl:template>
-    
-    
 
     <!-- transform tei hi (highlighting) with the attribute @rend="u" into html u elements -->
     <!-- how to read the match? "For all tei:hi elements that have a rend attribute with the value "u", do the following" -->
