@@ -61,7 +61,7 @@
       <surface xml:id="KH05">
          <figure>
             <label>Fifth page</label>
-            <figDesc>Article: FÖrstå vi våra barn</figDesc>
+            <figDesc>Article: Förstå vi våra barn</figDesc>
             <graphic url="../docs/assets/img/documents/20230120112718_005.jpg"/>
          </figure>
       </surface>
@@ -389,7 +389,7 @@
       </surface>
       <surface xml:id="KH52">
          <figure>
-            <label>Fifty two page</label>
+            <label>Fifty second page</label>
             <figDesc>Ads</figDesc>
             <graphic url="../docs/assets/img/documents/20230120112718_052.jpg"/>
          </figure>
