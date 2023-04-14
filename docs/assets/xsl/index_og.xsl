@@ -45,16 +45,13 @@
                                <article id="thumbnail">
                                 <img>
                                     <xsl:attribute name="src">
-                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='KH01']//tei:graphic/@url"/>
+                                        <xsl:value-of select="//tei:facsimile/tei:surface//tei:graphic[@xml:id='postit01_thumb']/@url"/>
                                     </xsl:attribute>
                                     <xsl:attribute name="title">
-                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='KH01']//tei:label"/>
+                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='postit01']//tei:label"/>
                                     </xsl:attribute>
                                     <xsl:attribute name="alt">
-                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='KH01']//tei:figDesc"/>
-                                    </xsl:attribute>
-                                    <xsl:attribute name="width">
-                                        500
+                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='postit01']//tei:figDesc"/>
                                     </xsl:attribute>
                                 </img>
                                </article>
@@ -64,7 +61,7 @@
                                 <article id="transcription">
                                   <p>
                                     <strong>Description:</strong>
-                                    <xsl:apply-templates select="//tei:sourceDesc"/> 
+                                    <xsl:apply-templates select="//tei:TEI//tei:figDesc"/>
                                   </p>
                                 </article>
                             </div>
