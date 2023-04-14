@@ -33,7 +33,7 @@
                     <a href="index.html">Home</a> |
                     <a href="diplomatic.html">Diplomatic Transcription</a> |
                     <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+               
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -59,7 +59,7 @@
                             <!-- second column: apply matching templates for anything nested underneath the tei:text element -->
                             <div class="col-md">
                                 <article id="transcript">
-                                    <xsl:apply-templates select="//tei:TEI//tei:text"/>
+                                    <xsl:apply-templates select="//tei:TEI//tei:div1[@type='article']"/>
                                 </article>
                             </div>
                             <!-- third column: empty sidebar -->

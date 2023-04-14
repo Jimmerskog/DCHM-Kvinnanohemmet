@@ -3,16 +3,19 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+   <teiHeader xml:lang="en" >
       <fileDesc>
          <titleStmt>
-            <title>Kvinnan och hemmet</title>
-            <author corresp="#CJ">Carolina Jimmerskog</author>
-            <principal>Carolina Jimmerskog</principal>
+            <title>Kvinnan och hemmet, September 1930</title>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Carolina Jimmerskog</name>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>University of Borås</publisher>
-            <date>March 2023</date>
+            <pubPlace>Gothenburg</pubPlace>
+            <date>2023</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p> Transcription distributed under a CC-BY-SA 4.0 license. </p>
@@ -20,9 +23,22 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Kvinnan och hemmet, September 1930</p>
+            <biblFull>
+               <titleStmt>
+                  <title xml:lang="swe"> Kvinnan och hemmet</title>
+                  <title xml:lang="dan">Kvinden og Hjemmet</title>
+                  <editor>Ida Hansen</editor>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>N Fr.Hansen Publishing Co.,</publisher>
+                  <pubPlace>Cedar Rapids, Iowa</pubPlace>
+                  <date>Established 1888</date>
+               </publicationStmt> 
+            </biblFull>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc> 
+         <projectDesc> <p>This digital reproduction of Kvinnan och Hemmet was carried out as a final project whithin the course Digitizing cultural heritage at the University of Borås. The repository for this project can be found at GitHub: https://github.com/Jimmerskog/DCHM-Kvinnanohemmet</p></projectDesc></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="Swe">Svenska</language>
@@ -414,10 +430,10 @@
          </titlePage>
       </front>
 
-      <body>
+      <body xml:lang="swe">
          <pb n="1" facs="#KH01" />
          <pb n="2" facs="#KH02"/>
-         <div1 type="article" xml:id="a2.1" next="a2.2">
+         <div1 type="ad" xml:id="a2.1" next="a2.2">
             <head type="3">FRU MAJAS LYCKA</head>
             <byline>Berättelse af H. Courths-Mahler.</byline>
             <p>DETTA är en bok skrifven af den välkända författar-innan H. Courths-Mahler. Hon har
@@ -450,7 +466,7 @@
             <p>...</p>
          </figure>
 
-         <div1 type="article" xml:id="a2.2" prev="a2.1">
+         <div1 type="ad" xml:id="a2.2" prev="a2.1">
             <p> Susanna, en mycket ytlig flicka, som såg mera på det yttre än en god och ädel
                karaktär. Och när hon så en dag genom Svens fostermor Renate blir upplyst om att Sven
                icke hade någon nämnvärd inkomst och ej skulle ärfva deras förmögenhet, ångrar hon
@@ -468,9 +484,7 @@
                grumla deras lycka. - Boken innehåller 160 sidor och är tryckt på godt papper samt
                sändes portofritt för endast 25 cents till hvilken plats som helst som har
                posttörbindelse Canada frimärken mottagas ej.</p>
-         </div1>
-
-         <div1 type="ad">
+         
             <ab>BESTÄLLNINGSBLANKETT Mrs. IDA HANSEN, Kvinnan och Hemmet, Cedar Rapids, Iowa. För
                inlagda belopp ombedes Ni 'sända ett exemplar af "FRU MAJAS LYCKA" till Namn
                ...........................................................................................................
@@ -7768,7 +7782,7 @@
                Thordis."</ab>
          </div1>
          <pb n="45" facs="#KH45"/>
-         <div1 type="article" xml:id="a45.1" next="a45.2">
+         <div1 type="ad" xml:id="a45.1" next="a45.2">
             <head type="1">Kungens handske</head>
          <byline>Historisk "berättelse af Zacharias Topelius.</byline>
          
@@ -7832,7 +7846,7 @@
                   ännu ett barn följde han konungen och vakade öf-</ab></div1>
          
             
-         <div1 type="article" xml:id="a45.2" next="a45.1">
+         <div1 type="ad" xml:id="a45.2" next="a45.1">
             <ab>
                ver honom med en rörande tillgifvenhet, med en
                oförskräckthet parad med kärlek och ömhet för
@@ -9065,7 +9079,7 @@
                </ab>
             
          </div1>
-         <div1 type="article" xml:id="a50.2" >
+         <div1 type="ad" xml:id="a50.2" >
          
             <head type="3"> Den blå Karbunkeln.</head>
          
@@ -9154,7 +9168,10 @@
         </div1>
          
          <pb n="51" facs="#KH51"/>
-         <div1 type="article" xml:id="a51.1" next="a51.2">
+         <div1 type="ad" xml:id="a51.1" next="a51.2">
+            <head type="3"> Gustaf II Adolfs sista julafton.</head>
+            
+            <byline>Af J.O. ABERG.</byline>
          <p>DET finns väl ingen svensk, som ej känner hi-
          storien angående denne konung, hvars minne
          firas hvarje år den 6 november. Han har mer än någon
@@ -9219,7 +9236,7 @@
          <p>Nu hade Konrad Ståhlkrantz blifvit bekant med den-
          na unga, vackra flicka och försökte att bortröfva henne</p>
          </div1>
-            <div1 type="article" xml:id="a51.2" prev="a51.1">
+            <div1 type="ad" xml:id="a51.2" prev="a51.1">
          <p>från katolikerna och det kloster där hon tillbringade
          sitt lif. Men så en dag blifver denne fänrik Ståhlkrantz
          anklagad för att hafva förstört karmeliterklostret, dödat

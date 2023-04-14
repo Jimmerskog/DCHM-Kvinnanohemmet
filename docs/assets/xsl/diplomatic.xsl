@@ -33,7 +33,7 @@
                     <a href="index.html">Home</a> |
                     <a href="diplomatic.html">Diplomatic Transcription</a> |
                     <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                   
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -794,7 +794,11 @@
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                         2023 Carolina Jimmerskog.
+                          <p>
+                              <strong>Transcription by:</strong><br/>
+                              <xsl:apply-templates select="//tei:TEI//tei:respStmt"/>
+                          </p>
                       </div>
                     </div>
                 </div>

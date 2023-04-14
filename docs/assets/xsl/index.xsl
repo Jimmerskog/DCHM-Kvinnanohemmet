@@ -33,7 +33,7 @@
                     <a href="index.html">Home</a> |
                     <a href="diplomatic.html">Diplomatic Transcription</a> |
                     <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                   
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -62,24 +62,20 @@
                             <!-- second column: apply matching templates for anything nested underneath the tei:text element -->
                             <div class="col-sm">
                                 <article id="transcription">
-                                  <p>
-                                    <strong>Description:</strong>
-                                    <xsl:apply-templates select="//tei:sourceDesc"/> 
-                                  </p>
+                                    <h2>Welcome!</h2>
+                                    <p>Here you can see the result of a digitisation project carried out on the September issue of Kvinnan och Hemmet from 1930. The original title was Kvinden og Hjemmet and was published in Norwegian and Danish between 1888-1947. From 1893 the magazine was also released in Swedish. Kvinnan och Hemmet was a monthly magazine intended for Scandinavian women who had moved to the United States and the goal was to help Scandinavian women transition to the American way of life. The editor, Ida Hansen, had first hand experience as an immigrant to the United States from Norway.</p>
+                                        
+                                        <p>The journal was distributed all around the country as well as in Canada and the Scandinavian countries. It was the biggest Scandinavian women’s journal in the United States at the time and could print as many as 80 000 copies of an issue. Kvinden og Hjemmet brought up topics such as women’s right to vote, family, politics, child rearing and usually concluded recipes, short stories, serials, poems, handicraft and also supplements such as Vårt bibliotek (“Our library”) and Mönster tidning (“Pattern paper”).</p>
+                                    <p><xsl:apply-templates select="//tei:encodingDesc"/> </p>
                                 </article>
                             </div>
                         </div>
                         <div class="row">
                                 <div class="col-sm">
                                     <article id="details">
-                                      <p>
-                                        <strong>Author:</strong><br/>
-                                        <xsl:apply-templates select="//tei:TEI//tei:author"/>
-                                      </p>
-                                      <p>
-                                        <strong>Transcription by:</strong><br/>
-                                        <xsl:apply-templates select="//tei:TEI//tei:principal"/>
-                                      </p>
+                                   
+                                      
+                                      
                                     </article>
                                 </div>
                         </div>
