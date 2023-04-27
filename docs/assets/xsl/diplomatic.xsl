@@ -33,29 +33,28 @@
                     <a href="index.html">Home</a> |
                     <a href="diplomatic.html">Diplomatic Transcription</a> |
                     <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
-                    <div1 class="container">
+                    <div class="container">
                         <!-- define a row layout with bootstrap's css classes (two columns) -->
-                        <div1 class="row">
-                            <div1 class="col-sm">
+                        <div class="row">
+                            <div class="col-sm">
                                 <h3>Images</h3>
-                            </div1>
-                            <div1 class="col-sm">
-                            </div1>
-                            <div1 class="col-sm">
+                            </div>
+                            <div class="col-sm">
+                            </div>
+                            <div class="col-sm">
                                 <h3>Transcription</h3>
-                            </div1>
-                        </div1>
+                            </div>
+                        </div>
                         <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
-                        <xsl:for-each select="//tei:div[@type='page']">
+                        <xsl:for-each select="//tei:div1[@type='page']">
                             <!-- save the value of each page's @facs attribute in a variable, so we can use it later -->
                             <xsl:variable name="facs" select="@facs"/>
-                            <div1 class="row"> 
+                            <div class="row"> 
                                 <!-- fill the first column with this page's image -->
-                                <div1 class="col-sm">
+                                <div class="col-sm">
                                     <article>
                                         <!-- make an HTML <img> element, with a maximum width of 400 pixels -->
                                         <img width="500" class="img-full">
@@ -83,31 +82,31 @@
                                             </xsl:attribute>
                                         </img>
                                     </article>
-                                </div1>
+                                </div>
                                 <!-- fill the second column with our transcription -->
-                                <div1 class='col-sm'>
+                                <div class='col-sm'>
                                     <article>
                                         <hr/>
                                         <xsl:apply-templates/>         
                                     </article>
-                                </div1>
-                            </div1>
+                                </div>
+                            </div>
                         </xsl:for-each>
-                    </div1>
+                    </div>
                 </main>
                 <footer>
-                <div1 class="row" id="footer">
-                  <div1 class="col-sm copyright">
-                      <div1>
+                <div class="row" id="footer">
+                  <div class="col-sm copyright">
+                      <div>
                         <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
                           <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
                         </a>
-                      </div1>
-                      <div1>
+                      </div>
+                      <div>
                          2023 Carolina Jimmerskog.
-                      </div1>
-                    </div1>
-                </div1>
+                      </div>
+                    </div>
+                </div>
                 </footer>
                 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
                 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    frankensTEIn: Reading Text
+                    Reading Text
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -59,7 +59,7 @@
                             <!-- second column: apply matching templates for anything nested underneath the tei:text element -->
                             <div class="col-md">
                                 <article id="transcript">
-                                    <xsl:apply-templates select="//tei:TEI//tei:div1[@type='article']"/>
+                                    <xsl:apply-templates select="//tei:TEI//tei:div2[@type='article']"/>
                                 </article>
                             </div>
                             <!-- third column: empty sidebar -->
