@@ -1,4 +1,4 @@
-# DCHM-Kvinnanohemmet
+# Kvinnan och hemmet
 Kvinnan och hemmet - a digtisation of a women's journal from 1930.
 This is a student project created during the course of "Digitising Cultural Heritage Materials" (DCHM) at the University of Borås. For this project I have digitised an older women's journal, Kvinnan och Hemmet. It's the September issue of Kvinnan och Hemmet from 1930. The original title was Kvinden og Hjemmet and was published in Norwegian and Danish between 1888-1947. From 1893 the magazine was also released in Swedish. Kvinnan och Hemmet was a monthly magazine intended for Scandinavian women who had moved to the United States and the goal was to help Scandinavian women transition to the American way of life. The editor, Ida Hansen, had first hand experience as an immigrant to the United States from Norway.
 
