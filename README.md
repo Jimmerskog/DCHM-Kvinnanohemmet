@@ -5,7 +5,7 @@ The journal was distributed all around the US and was the biggest Scandinavian w
 
 The repository conclude images with embeded metadata of each page of the journal, an xml-file with the text encoding of the content of the journal, xslt-files for the conversion to html-files and html-files for each page of the website. My goal with this project has been to make the material accesible and useble for future users. The material is therfore under Creative commons license (CC BY-NC 4.0) and is free to reuse. 
 
-Visit the Website if you want to see what the published version of this repository looks like.
+Visit the Website if you want to see what the published version of this repository looks like, https://jimmerskog.github.io/Kvinnan-och-hemmet/index.html.
 
 # About the Developer
 This repository and web page was developed by Carolina Jimmerskog for the course "Digitising Cultural Heritage Materials" (DCHM) at the University of Borås. The course is part o the Masterprogram in Library and Information Science, Digital Libraries. The repository and web page were based on a template by Wout Dillen that can be found at https://github.com/WoutDLN/DCHM-template.
