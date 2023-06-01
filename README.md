@@ -8,4 +8,4 @@ The repository conclude images with embeded metadata of each page of the journal
 Visit the Website if you want to see what the published version of this repository looks like.
 
 # About the Developer
-This repository and web page was developed by Carolina Jimmerskog for the course "Digitising Cultural Heritage Materials" (DCHM) at the University of Borås. The course is part o the Masterprogram in Library and Information Science, Digital Libraries. The repository and web page were based on a template by Wout Dillen that can be found at https://github.com/WoutDLN/DCHM-template,
+This repository and web page was developed by Carolina Jimmerskog for the course "Digitising Cultural Heritage Materials" (DCHM) at the University of Borås. The course is part o the Masterprogram in Library and Information Science, Digital Libraries. The repository and web page were based on a template by Wout Dillen that can be found at https://github.com/WoutDLN/DCHM-template.
